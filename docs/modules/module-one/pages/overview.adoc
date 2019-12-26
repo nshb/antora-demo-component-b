@@ -1,6 +1,6 @@
 = Module One Overview
 
-This is version *{page-component-version}* of Module One in Component B.
+This is version *{page-component-version}* of Module One in Component B; just slightly modified as an experiment by _Erik Hagen_.
 
 == Page source
 
